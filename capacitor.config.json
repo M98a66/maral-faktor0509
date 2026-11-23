@@ -1,0 +1,6 @@
+{
+  "appId": "ir.maral.factor",
+  "appName": "فاکتور مارال",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
